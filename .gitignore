@@ -1,0 +1,66 @@
+# ROS Catkin build folders
+build/
+bin/
+devel/
+# Rosbuild workspace files
+setup*sh
+.rosinstall*
+# Some other ROS auto-generated folders
+lib/
+msg_gen/
+srv_gen/
+# dynamic_reconfigure auto-generated files
+*.cfgc
+cpp/
+
+# CMake files
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+
+# Backup/Autosave files
+*~
+*.asv
+*.swp
+
+# Mac meta files
+.DS_Store
+
+# IntelliJ project files
+.idea/misc.xml
+.idea/workspace.xml
+
+# Eclipse project files
+.metadata
+.cproject
+.project
+.pydevproject
+.settings
+
+# Sublime project files
+*.sublime-project*
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Compiled Python files
+*.pyc
+
+# For stupid goddamn LaTeX files
+*.aux
+*.synctex.gz
+*.log
+*.out
+*.bbl
+*.blg
