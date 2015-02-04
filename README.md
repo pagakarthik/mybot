@@ -9,4 +9,4 @@ In this repository
 
 - the final code blocks are importer_v7 for automated conversion of the rosbag data into csv files.
 --The task in here was to remove the rgb data and visulize other toipics in various ros bags
-https://gist.github.com/pagakarthik/1468e61c317248bb321e.js
+<script src="https://gist.github.com/pagakarthik/1468e61c317248bb321e.js"></script>
